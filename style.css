@@ -1,0 +1,38 @@
+ #image{
+ float: left;
+ width: 600px;
+ margin-right: 9px;
+ height: 500px;
+
+  
+  
+ ; }
+
+
+    .container{
+        display:flex;
+        justify-content: center;
+        margin-right:600px;
+    
+       
+      }
+    
+    .container1{
+      margin-right:20px;
+      padding-right: 100px;
+      width: 100vw;
+      height: 100vh;
+
+          }
+          .body{
+             background-color: aquamarine;
+
+}
+ .button{
+    border-radius: 200px;
+    border:solid;
+    color: cornflowerblue;
+    padding: 15px;
+    
+}
+
